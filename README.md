@@ -1,2 +1,1 @@
-# DjangoSRM
-First steps
+Creating a Django CRM
